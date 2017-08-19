@@ -1,6 +1,6 @@
 ---
 title: 'Just in: small batch of Jamaica Blue Mountain in store next week'
-tags:
+cftags:
   - 'AWS::IAM::Role'
   - 'AWS::EC2::VPC'
 date: 2017-01-04T15:04:10.000Z

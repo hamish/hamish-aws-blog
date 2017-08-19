@@ -1,0 +1,19 @@
+cftag.terms.html
+{{.}}
+<hr />
+  {{ range .Site.Taxonomies.cftags }}
+
+      {{ printf "%#v" . }}
+
+  {{ end }}
+<hr />
+<ul class="tags">
+  {{ range ($.Site.GetPage "taxonomyTerm" "cftags").Pages }}
+   <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+  {{ end }}
+</ul>
+
+<hr />
+{{ printf "%#v" $.Site.Taxonomies.cftags }}
+<hr />
+{{ printf "%#v" $.Site }}
