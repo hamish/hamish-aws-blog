@@ -1,11 +1,16 @@
-+++
-title = "Simple VPC"
-date = "2017-08-23T21:49:20+02:00"
-tags = ["AWS::EC2::EIP", "AWS::EC2::InternetGateway", "AWS::EC2::Route", "AWS::EC2::Subnet"]
-categories = ["programming"]
-menu = "main"
-banner = "banners/placeholder.png"
-+++
+---
+title: 'Simple VPC'
+tags:
+  - 'AWS::IAM::Role'
+  - 'AWS::EC2::VPC'
+date: 2017-08-23T15:04:10.000Z
+categories: 
+  - 'CloudFormation'
+menu: 'main'
+banner: 'banners/placeholder.png'
+description: >-
+  Creates a simple VPC
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie non odio venenatis varius. Pellentesque at odio purus. Fusce quis egestas ipsum. Donec lacinia erat vel nunc mattis, in consectetur enim commodo. Phasellus viverra aliquam commodo. Aliquam aliquam sodales dui, vitae elementum metus finibus non. Mauris non molestie justo. Vivamus lobortis nulla nec eros scelerisque, ac hendrerit dui tempus. Etiam nunc est, rhoncus at porta a, elementum sit amet magna. Vestibulum interdum, est ultrices rhoncus finibus, augue urna lobortis velit, nec molestie ligula arcu vitae risus. Nullam pulvinar rutrum placerat.
 
