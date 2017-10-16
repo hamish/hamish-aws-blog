@@ -1,4 +1,4 @@
-baseurl = "https://hamish-currie.netlify.com"
+baseurl = "//hamish-currie.netlify.com"
 languageCode = "en-us"
 title = "Icarus"
 # Enable comments by entering your Disqus shortname
